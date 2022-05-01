@@ -1,5 +1,5 @@
 
-## Admin de citas de mascotas ⚡️
+## Admin de citas de mascotas 
 
 
  _An app that i 
